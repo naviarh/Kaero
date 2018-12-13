@@ -1,0 +1,2 @@
+# Kaero
+KDE Plasma Theme
