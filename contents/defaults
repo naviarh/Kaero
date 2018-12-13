@@ -1,0 +1,21 @@
+[kcminputrc][Mouse]
+cursorTheme=KryptonBlackLH
+
+[kdeglobals][General]
+ColorScheme=ice lilac
+
+[kdeglobals][KDE]
+widgetStyle=oxygen
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__seven-black
+
+[plasmarc][Theme]
+name=Oxyglass
