@@ -1,6 +1,8 @@
 # Kaero
-**KDE Plasma Theme**
+### KDE Plasma Theme
 
+
+**You must pre-install:**
 
 
 cursorTheme=KryptonBlackLH
@@ -8,8 +10,6 @@ cursorTheme=KryptonBlackLH
 ColorScheme=ice lilac
 
 widgetStyle=oxygen
-
-LayoutName=org.kde.breeze.desktop
 
 LayoutName=org.kde.breeze.desktop
 
